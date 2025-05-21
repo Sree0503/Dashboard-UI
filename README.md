@@ -14,10 +14,10 @@ A responsive React dashboard UI built with Next.js and Tailwind CSS. It includes
 
 ## Technologies Used
 
---React
---Next.js
---Tailwind CSS
---Chart.js
+- React
+- Next.js
+- Tailwind CSS
+- Chart.js
 
 ## Installation
 
