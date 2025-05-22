@@ -4,7 +4,7 @@ A responsive React dashboard UI built with Next.js and Tailwind CSS. It includes
 
 ## Demo
 
-[Live Demo](https://your-demo-link.com)
+[Live Demo](https://frontenddashboard.netlify.app/)
 
 ## Features
 
